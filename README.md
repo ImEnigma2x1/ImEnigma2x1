@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ImEnigma2x1
 - 🌱 I’m currently learning Javascript 
-- 📫 Contact at Discord, @Enigma2x0#9977
+- 📫 Contact at Discord, ImEnigma2x0
